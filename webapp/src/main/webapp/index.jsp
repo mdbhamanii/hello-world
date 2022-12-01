@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>This is Meet Bhamani's DevOps Project. Please register below to become contributor of it. It is from Docker Container </h1>	  
-    <h1>New user Register for DevOps Learning. Ansible is also integrated</h1>
+    <h1>New user Register for DevOps Learning. Ansible is also integrated version 2</h1>
     <h2> This is very interesting project </h2>
     <p>Please fill in this form to create an account.</p>
     <hr>
